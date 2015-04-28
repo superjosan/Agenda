@@ -1,0 +1,55 @@
+body{
+	font-family: sans-serif;
+	font-weight: 100;
+	background: #FFD700;
+}
+h1{
+	text-align: center;
+	color: #4682B4;
+	text-shadow: 0px 2px #fff;
+}
+/**
+a{
+	margin: 1px 0;
+	float: left;
+	clear: left;
+	text-decoration: none;
+}
+.orang{
+	color: orange;
+	padding: 0 0 0 18px;
+	border-bottom: thin dashed; 
+}
+*/
+.nombre{
+	font-size: 18px;
+}
+.curso{
+	font-style: italic;
+	font-size: 13px;
+}
+.wrapper{
+	width: 650px;
+	margin: 0 auto;
+	box-shadow: 5px 5px 5px #555;
+	background: #fff;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+.contact-item{
+	border-bottom: thin solid #ccc;
+	padding: 10px;
+}
+
+button{
+	background: #080;
+	color: #fff;
+	padding: 5px 15px;
+	border-radius: 5px;
+	border: thin solid #060;
+	"margin: 5px auto;"
+}
+button:hover{
+	background: #0A0;
+}
